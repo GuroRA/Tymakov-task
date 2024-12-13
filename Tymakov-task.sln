@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tymakov-task", "Tymakov-task\Tymakov-task.csproj", "{EFA24DF9-19A2-4151-904A-44EE26AF1E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA24DF9-19A2-4151-904A-44EE26AF1E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA24DF9-19A2-4151-904A-44EE26AF1E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA24DF9-19A2-4151-904A-44EE26AF1E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA24DF9-19A2-4151-904A-44EE26AF1E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79ECF053-8977-41D7-A7E1-314F4CF721B0}
+	EndGlobalSection
+EndGlobal
